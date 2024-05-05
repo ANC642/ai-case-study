@@ -70,3 +70,11 @@ Fathom5
 * Why are these technologies appropriate for your solution?
 	With mesh technology in play this will distribute network traffic to the best performance so the vehicles can communicate faster and prevent accidents. 
 
+# Resources
+https://www.fathom5.co/
+https://pitchbook.com/profiles/company/231782-05#faqs
+https://www.crunchbase.com/organization/fathom5
+https://www.linkedin.com/in/zacstaples
+https://builtin.com/company/fathom5
+https://www.fathom5.co/news/the-second-age-of-cyber-4
+https://schedule.sxsw.com/2018/speakers/1978722
