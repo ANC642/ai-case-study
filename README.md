@@ -44,7 +44,7 @@ Fathom5
 	Maritime cyber-attacks have rose to 400%. Many companies are implementing network detection tools and AI to locate malicious behaviors on their networks. 
 
 * What are the other major companies in this field?
-	SonicWall, Premier Continuum, Noria Group; and ID Agent.
+	SonicWall - Nex GenFW company, Manges VPN for clients. Premier Continuum -Business Continuity, Organizational Resilience, Risk Management, IT Disaster Recovery, and Crisis and Emergency Management. , Noria Group-financial services, technology and design.
 
 ## Results
 
@@ -78,3 +78,6 @@ https://www.linkedin.com/in/zacstaples
 https://builtin.com/company/fathom5
 https://www.fathom5.co/news/the-second-age-of-cyber-4
 https://schedule.sxsw.com/2018/speakers/1978722
+https://ca.linkedin.com/company/premiercontinuum
+https://www.sonicwall.com/
+https://www.idagent.com/
